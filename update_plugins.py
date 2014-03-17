@@ -26,6 +26,7 @@ mayansmoke https://github.com/vim-scripts/mayansmoke
 nerdtree https://github.com/scrooloose/nerdtree
 nginx.vim https://github.com/chr4/nginx.vim
 open_file_under_cursor.vim https://github.com/amix/open_file_under_cursor.vim
+rust.vim https://github.com/rust-lang/rust.vim
 snipmate-snippets https://github.com/scrooloose/snipmate-snippets
 tlib https://github.com/vim-scripts/tlib
 vim-addon-mw-utils https://github.com/MarcWeber/vim-addon-mw-utils
@@ -57,6 +58,11 @@ vim-abolish https://github.com/tpope/tpope-vim-abolish
 mru.vim https://github.com/vim-scripts/mru.vim
 vim-markdown https://github.com/plasticboy/vim-markdown
 comfortable-motion.vim https://github.com/yuttie/comfortable-motion.vim
+vim-slim https://github.com/slim-template/vim-slim
+vim-puppet https://github.com/rodjek/vim-puppet
+vim-javascript https://github.com/pangloss/vim-javascript
+vim-jsx https://github.com/mxw/vim-jsx
+vim-mustache-handlebars https://github.com/mustache/vim-mustache-handlebars
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
